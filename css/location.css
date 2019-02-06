@@ -23,9 +23,16 @@ body, html {
   color: white;
 }
 
+.foot-link {
+  color: lightgray;
+}
+
+a:hover {
+  color: grey;
+}
+
 .jumbotron {
-  padding: 20px;
-  /* margin-top: -30px; */
+margin-top: 5%;
 }
 .addressInfo {
   text-align: center;
@@ -58,15 +65,19 @@ img {
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+/* .topnav a:hover {
   color: lightgray;
 }
 
 .nav-link a:link, a:visited {
   color: lightgray;
-}
+} */
 
 footer {
   background-color: #1f1f1f;
   color: white;
+}
+
+.addressInfo {
+  margin-bottom: 5%;
 }
