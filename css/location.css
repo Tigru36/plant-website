@@ -24,8 +24,7 @@ body, html {
 }
 
 .jumbotron {
-  padding: 20px;
-  /* margin-top: -30px; */
+margin-top: 5%;
 }
 .addressInfo {
   text-align: center;
@@ -69,4 +68,8 @@ img {
 footer {
   background-color: #1f1f1f;
   color: white;
+}
+
+.addressInfo {
+  margin-bottom: 5%;
 }
