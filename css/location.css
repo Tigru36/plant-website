@@ -32,9 +32,9 @@ body, html {
   margin-top: 10px;
 }
 
-/* .btn {
-  margin-left: -20px;
-} */
+.locationlink {
+  color: black;
+}
 
 img {
   height: 250px;
@@ -62,7 +62,7 @@ img {
   color: lightgray;
 }
 
-a:link, a:visited {
+.nav-link a:link, a:visited {
   color: lightgray;
 }
 
