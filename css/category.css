@@ -32,7 +32,7 @@ h1 {
 /* //hero// */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/category.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hero1.jpg);
   height: 80%;
   background-position: center;
   background-repeat: no-repeat;
