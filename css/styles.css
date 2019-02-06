@@ -18,7 +18,7 @@
 }
 /* general styling */
 .jumbotron {
-  opacity: .7;
+  opacity: .785;
   color: black;
   padding: 2%;
   margin-bottom: 2.5%;
@@ -43,8 +43,15 @@ body, html {
   margin-bottom: 2.5%;
 }
 
-#r1, #r2, #r3 {
+/* #r1, #r2, #r3 {
   display: none;
+} */
+
+#r1, #r2, #r3 {
+  background-image: url("../img/air4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .location{
@@ -56,14 +63,13 @@ body, html {
   opacity: .9;
 }
 
-.card {
-  opacity: .8;
-}
-
 a:link, a:visited {
   color: lightgray;
 }
 
+a.blacklink {
+  color: navy;
+}
 /* flexbox stuff */
 .flex-container1 {
   display: flex;
