@@ -10,7 +10,7 @@
 
 body, html {
     height: 100%;
-    /* background-color: #fffcf9; */
+    font-family: 'Cutive Mono', monospace;
   }
 
  .hero-text {
