@@ -2,7 +2,7 @@
 
 #### _Green Thumb was created for all fellow humans in plants. Would you like to know how to care for them? Take a look!  7/feb/2019_
 
-#### By _ ** Kohichi Horii, Gary Bermudez, Ryan Dikeos, Doris Warren ** _
+#### By ** Kohichi Horii, Gary Bermudez, Ryan Dikeos, Doris Warren **
 
 ## Description
 
