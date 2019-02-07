@@ -14,9 +14,9 @@
 * _Exception 2: Program will suggest proper care for the following._
 * _Example input: Foliage, Succulent, Cactus, and Air Plants._
 * _Expected output: Options - Water , Sun Light, Soil_
-* _Exception #: Program will show you a gallery of various house plants._
+* _Exception 3: Program will show you a gallery of various house plants._
 * _Expected output: Images of Cactus, Air Plants, Foliage_
-* _Exception #: Program will locate four different locations, where you can buy supplies along with plants to get started on your plant journey!_
+* _Exception 4: Program will locate four different locations, where you can buy supplies along with plants to get started on your plant journey!_
 * _Expected output: Pistols Nursery, Hammer + Vine, Pomarious Nursery, Portland Nursery_
 
 
@@ -35,7 +35,7 @@ _There are no current bugs that we are aware of. Program is a work in progress. 
 
 ## Support and contact details
 
-_If you are having issues you can contact us at kohichi.horii@gmail.com _
+_If you are having issues you can contact us at kohichi.horii@gmail.com_
 
 ## Technologies Used
 
