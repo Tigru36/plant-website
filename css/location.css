@@ -1,7 +1,7 @@
 /* //hero// */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/location.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hero4.jpg);
   height: 80%;
   background-position: center;
   background-repeat: no-repeat;
