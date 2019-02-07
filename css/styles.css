@@ -43,9 +43,9 @@ body, html {
   margin-bottom: 2.5%;
 }
 
-/* #r1, #r2, #r3 {
-  display: none;
-} */
+#sub {
+  border-radius: 5px;
+}
 
 #r1, #r2, #r3 {
   background-image: url("../img/air4.jpg");
@@ -53,6 +53,13 @@ body, html {
   background-position: center;
   background-size: cover;
   display: none;
+  text-align: center;
+  font-size: 120%;
+}
+
+.show1 {
+  padding-bottom: 5%;
+  padding-top: 5%;
 }
 
 .location{
@@ -69,7 +76,7 @@ a:link, a:visited {
 }
 
 a.blacklink {
-  color: navy;
+  color: rgb(79,81,79);
 }
 /* flexbox stuff */
 .flex-container1 {
