@@ -47,11 +47,29 @@ body, html {
   border-radius: 5px;
 }
 
-#r1, #r2, #r3 {
-  background-image: url("../img/air4.jpg");
+#r1 {
+  background-image: url("../img/leafback.jpg");
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+}
+
+#r2 {
+  background-image: url("../img/jumboback.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+#r3 {
+  background-image: url("../img/airplantback.png");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+}
+
+
+#r1, #r2, #r3 {
   display: none;
   text-align: center;
   font-size: 120%;
