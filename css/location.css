@@ -1,7 +1,7 @@
 /* //hero// */
 
 .hero-image {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/location.jpg);
+  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../img/hero4.jpg);
   height: 80%;
   background-position: center;
   background-repeat: no-repeat;
@@ -23,9 +23,16 @@ body, html {
   color: white;
 }
 
+.foot-link {
+  color: lightgray;
+}
+
+a:hover {
+  color: grey;
+}
+
 .jumbotron {
-  padding: 20px;
-  /* margin-top: -30px; */
+margin-top: 5%;
 }
 .addressInfo {
   text-align: center;
@@ -58,15 +65,19 @@ img {
 }
 
 /* Change the color of links on hover */
-.topnav a:hover {
+/* .topnav a:hover {
   color: lightgray;
 }
 
 .nav-link a:link, a:visited {
   color: lightgray;
-}
+} */
 
 footer {
   background-color: #1f1f1f;
   color: white;
+}
+
+.addressInfo {
+  margin-bottom: 5%;
 }
