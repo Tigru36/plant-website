@@ -3,7 +3,7 @@
 #### _Green Thumb was created for all fellow humans in plants. Would you like to know how to care for them? Take a look!  2/7/2019_ This application is build using HTML, CSS, JavaScript and Bootstrap JS Framework. 
 
 
-#### By _Kohichi Horii, Gary Bermudez, Ryan Dikeos, Doris Warren_
+#### By _Gary Bermudez, Kohichi Horii, Doris Warren_
 
 ## Description
 
@@ -36,7 +36,7 @@ _There are no current bugs that we are aware of. Program is a work in progress. 
 
 ## Support and contact details
 
-_If you are having issues you can contact us at kohichi.horii@gmail.com_
+_If you are having issues you can contact us at garybm.17@gmail.com_
 
 ## Technologies Used
 
