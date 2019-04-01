@@ -1,6 +1,7 @@
 # _Green Thumb_
 
-#### _Green Thumb was created for all fellow humans in plants. Would you like to know how to care for them? Take a look!  2/7/2019_
+#### _Green Thumb was created for all fellow humans in plants. Would you like to know how to care for them? Take a look!  2/7/2019_ This application is build using HTML, CSS, JavaScript and Bootstrap JS Framework. 
+
 
 #### By _Kohichi Horii, Gary Bermudez, Ryan Dikeos, Doris Warren_
 
